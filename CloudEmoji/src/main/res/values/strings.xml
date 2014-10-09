@@ -81,6 +81,9 @@
         <item>Always split view</item>
     </string-array>
 
+    <string name="description">Cloud Emoticon for Android</string>
+    <string name="credit">By KTachibana</string>
+
     <string name="back_button_label">Back</string>
     <string name="next_button_label">Next</string>
     <string name="skip_button_label">Skip</string>
