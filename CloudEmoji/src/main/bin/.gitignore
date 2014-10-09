@@ -6,3 +6,4 @@ R.txt
 resources.ap_
 *.apk
 *.cache
+/classes/
