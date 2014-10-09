@@ -40,8 +40,7 @@
             android:layout_height="wrap_content"
             android:divider="@color/lighter_gray"
             android:orientation="vertical"
-            android:showDividers="beginning|end"
-            app:dividerThickness="2dp" />
+            android:showDividers="beginning|end" />
 
         <TextView
             android:layout_width="fill_parent"

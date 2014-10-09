@@ -1,0 +1,8 @@
+/res
+AndroidManifest.xml
+classes.dex
+/dexedLibs
+R.txt
+resources.ap_
+*.apk
+*.cache
