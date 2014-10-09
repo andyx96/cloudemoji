@@ -48,24 +48,24 @@
     <string name="backup_and_restore">バックアップと復元</string>
     <string name="backup_favorites">お気に入りをバックアップします。</string>
     <string name="restore_favorites">お気に入りを復元します。</string>
-    <string name="empty_emoticon">Empty emoticon</string>
-    <string name="account">Account</string>
-    <string name="registering">Registering</string>
-    <string name="register_successful">You have registered</string>
-    <string name="illegal_username">Illegal username</string>
-    <string name="existing_username">Existing username</string>
-    <string name="illegal_email_address">Illegal email address</string>
-    <string name="existing_email_address">Existing email address</string>
-    <string name="repository_store">Repository Store</string>
-    <string name="old_favorites_merged">Old favorites merged</string>
-    <string name="update_checker">Check for update</string>
-    <string name="update_checker_failed">Failed to check for update</string>
-    <string name="already_latest_version">Already latest version</string>
-    <string name="new_version_available">New version is available！</string>
-    <string name="go_to_play_store">Go to Play Store</string>
-    <string name="built_in_emoji">Built-in emoji</string>
-    <string name="search_hint">Search emoticon</string>
-    <string name="search_result_not_found">Result not found</string>
+    <string name="empty_emoticon">絵文字がありません</string>
+    <string name="account">アカウント</string>
+    <string name="registering">アカウント登録中</string>
+    <string name="register_successful">登録成功</string>
+    <string name="illegal_username">無効ユーザー名前</string>
+    <string name="existing_username">ユーザー名前はもう使った</string>
+    <string name="illegal_email_address">無効メールアドレス</string>
+    <string name="existing_email_address">メールアドレスはもう使った</string>
+    <string name="repository_store">リポジトストア</string>
+    <string name="old_favorites_merged">Old favorites mergedお気に入りを併合しました</string>
+    <string name="update_checker">アップデートをチェック</string>
+    <string name="update_checker_failed">アップデートが失敗した</string>
+    <string name="already_latest_version">ただいま最新バージョンです</string>
+    <string name="new_version_available">利用可能な新しいバージョンがあります</string>
+    <string name="go_to_play_store">ピレイストアに行く</string>
+    <string name="built_in_emoji">ビルトイン絵文字</string>
+    <string name="search_hint">絵文字を検索する</string>
+    <string name="search_result_not_found">検索結果はみつかりません</string>
 
     <string-array name="notification_options">
         <item>表示しない</item>
@@ -79,7 +79,7 @@
         <item>常に分割</item>
     </string-array>
 
-    <string name="back_button_label">Back</string>
-    <string name="next_button_label">Next</string>
-    <string name="skip_button_label">Skip</string>
+    <string name="back_button_label">戻る</string>
+    <string name="next_button_label">次に</string>
+    <string name="skip_button_label">スキプ</string>
 </resources>
